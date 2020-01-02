@@ -3294,7 +3294,7 @@ h3 {
 .testmonial_area::before {
   position: absolute;
   content: "";
-  background:#444;
+  background:aliceblue;
   width: 100%;
   height: 100%;
   left: 0;
